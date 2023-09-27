@@ -47,7 +47,8 @@ Here's a quick overview of some of the projects I'm currently working on and/or 
   </tr>
 </table>
 
-> Provided by [`GitHub Readme Stats`]
+> Provided by [`GitHub Readme Stats`] <br>
+> Support the languages of the README [`Portuguese (Brazil)`], [`French`], [`Spanish`], [`Japanese`] and [`Mandarin`]
 
 <!----------------- LINKS --------------->
 [`Ruby`]:                https://www.ruby-lang.org/en/
@@ -75,8 +76,8 @@ Here's a quick overview of some of the projects I'm currently working on and/or 
 [`Kuruminha`]:          https://github.com/whoisdon/CommunityStructure/tree/Kuruminha
 
 <!--------------- Language ----------------->
-[`pt-BR`]:     ./multilingual-readme/pt-BR/README.md
-[`fr`]:     ./multilingual-readme/fr/README.md
-[`es`]:     ./multilingual-readme/es/README.md
-[`ja-JA`]:  ./multilingual-readme/ja-ja/README.md
-[`zh`]:     ./multilingual-readme/zh/README.md
+[`Portuguese (Brazil)`]:     ./multilingual-readme/pt-BR/README.md
+[`French`]:                  ./multilingual-readme/fr/README.md
+[`Spanish`]:                 ./multilingual-readme/es/README.md
+[`Japanese`]:                ./multilingual-readme/ja-ja/README.md
+[`Mandarin`]:                ./multilingual-readme/zh/README.md
