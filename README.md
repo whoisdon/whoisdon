@@ -29,7 +29,7 @@ You can reach out to me on a multitude of platforms!
 Here's a quick overview of some of the projects I'm currently working on and/or wrapping up:
 
 - 🏗️ [`CommunityStructure`] - A robust framework, built on the [`discord.js`] library, designed for bot creation using a class-based approach.
-- 🚂 [`APIExpress`] - Class-based Express.js route management template.
+- 🚂 [`APIExpress`] - Class-based [`express.js`] route management template.
 - 🤖 [`Kuruminha`] - A fun, creative bot designed for innovation, using [`discord.js`] and a custom framework based on [`CommunityStructure`].
 
 > Enjoyed my projects? Show your support by giving a star to the [`repositories`] you find interesting! It helps recognize the effort behind each project.
@@ -61,7 +61,9 @@ Here's a quick overview of some of the projects I'm currently working on and/or 
 [`Rust`]:                https://www.rust-lang.org/
 [`Go`]:                  https://golang.org
 [`Discord`]:             https://discord.com/
-[`repositories`]:     https://github.com/whoisdon?tab=repositories
+[`discord.js`]:          https://discord.js.org/#/
+[`express.js`]:          https://expressjs.com/
+[`repositories`]:        https://github.com/whoisdon?tab=repositories
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
 
 <!--------------- Youtube ----------------->
@@ -70,6 +72,5 @@ Here's a quick overview of some of the projects I'm currently working on and/or 
 
 <!--------------- Projects ----------------->
 [`CommunityStructure`]: https://github.com/whoisdon/CommunityStructure
-[`discord.js`]:         https://discord.js.org/#/
 [`APIExpress`]:         https://github.com/whoisdon/APIExpress
 [`Kuruminha`]:          https://github.com/whoisdon/CommunityStructure/tree/Kuruminha
