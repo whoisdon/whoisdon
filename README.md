@@ -26,7 +26,7 @@ You can reach out to me on a multitude of platforms!
 
 ## 🔭 Projects
 
-Here's a quick run down of some of the projects I'm working on / some of the teams I'm working with:
+Here's a quick overview of some of the projects I'm currently working on and/or wrapping up:
 
 - 🏗️ [`CommunityStructure`] - A robust framework, built on the discord.js library, designed for bot creation using a class-based approach.
 - 🚂 [`APIExpress`] - Class-based Express.js route management template.
