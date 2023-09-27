@@ -49,7 +49,6 @@ Here's a quick overview of some of the projects I'm currently working on and/or 
 
 > Provided by [`GitHub Readme Stats`]
 
-
 <!----------------- LINKS --------------->
 [`Ruby`]:                https://www.ruby-lang.org/en/
 [`Zig`]:                 https://ziglang.org/
@@ -74,3 +73,10 @@ Here's a quick overview of some of the projects I'm currently working on and/or 
 [`CommunityStructure`]: https://github.com/whoisdon/CommunityStructure
 [`APIExpress`]:         https://github.com/whoisdon/APIExpress
 [`Kuruminha`]:          https://github.com/whoisdon/CommunityStructure/tree/Kuruminha
+
+<!--------------- Language ----------------->
+[`pt-BR`]:     ./multilingual-readme/pt-BR/README.md
+[`fr`]:     ./multilingual-readme/fr/README.md
+[`es`]:     ./multilingual-readme/es/README.md
+[`ja-JA`]:  ./multilingual-readme/ja-ja/README.md
+[`zh`]:     ./multilingual-readme/zh/README.md
