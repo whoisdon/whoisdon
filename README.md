@@ -28,7 +28,7 @@ You can reach out to me on a multitude of platforms!
 
 Here's a quick overview of some of the projects I'm currently working on and/or wrapping up:
 
-- 🏗️ [`CommunityStructure`] - A robust framework, built on the discord.js library, designed for bot creation using a class-based approach.
+- 🏗️ [`CommunityStructure`] - A robust framework, built on the [`discord.js`] library, designed for bot creation using a class-based approach.
 - 🚂 [`APIExpress`] - Class-based Express.js route management template.
 - 🤖 [`Kuruminha`] - A fun, creative bot designed for innovation, using [`discord.js`] and a custom framework based on [`CommunityStructure`].
 
