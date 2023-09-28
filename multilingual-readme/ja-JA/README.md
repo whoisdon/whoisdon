@@ -1,18 +1,38 @@
+# [`こんにちは、コーダーたち！Donと呼んでください。`]() ⚡  <img src="https://komarev.com/ghpvc/?username=whoisdon&style=flat-square" alt="" align="center" />
 
-さまざまなプラットフォームで連絡を取ることができます！
+私はサンパウロのバックエンドに焦点を当てた開発者です！ ✨ TypeScriptを中心にしたNode.jsの専門家です。オープンソースの協力に情熱を注ぎ、JavaScriptの知識を常に拡張しており、TypeScriptの世界も探索しています 👀。[`PHP`]、[`Python`]、さらには[`Rust`]の経験もあります。
+
+- チャレンジに笑顔で臨む：私はチャレンジを笑顔で迎えます！問題と未知の領域に飛び込むことが大好きで、それがうまくいかない場合は、リサーチミッションに飛び込みます。驚くべきことに、この問題解決の非伝統的なアプローチが私のプログラミングの旅をスタートさせました！今はリサーチャーですが、孤独な探求の後です。
+- 強力な型付け言語（[`Go`]、[`Ruby`]、または[`Zig`]など）との作業の複雑さ：私とプログラミング言語の一部との関係は、異なる領域を探索するのに似た魅力的な旅です。これらの言語の複雑さを解読し、内部の動作を理解する能力は持っていますが、これらの言語でのタイピング速度は細心の注意を払って計算的に実行される宇宙遊泳に似ています - 遅く計算されます。しかし、[`TypeScript`]のように、私がより快適に感じる言語の領域では、私のタイピングは高速のレースに変わります。これは理解と正確なタイピングの完璧なコンビネーションであり、強力な型付けシステムの複雑さに直面しても優れたダンスです！
+
+## 📚 経験
+
+私はバックエンド開発を中心に自己学習型の開発者です。2020年には[`Stackz`]と[`Rato Borrachudo`]のプログラム動画を見ながら、メモ帳でウイルスを作成する方法を学ぶことから予想外に始まりました。それ以来、プログラミングの旅が始まり、情熱的なバックエンド開発者になり、コードに飛び込み、このワクワクする冒険に挑みました。私の最初のステップは単純かもしれませんが、プログラミングへの情熱は今もっとも輝いています。
+
+### キーポイント ✍️
+
+- バックエンド開発を中心に自己学習型の開発者です。
+- プログラミングへの情熱は、[`Stackz`]や[`Rato Borrachudo`]などのクリエイターのプログラム動画を探求し始めた2020年に予想外に広がりました。
+- TypeScript、JavaScript、Node.jsの3年以上の経験があります。
+- 常に学び続け、チーム環境で協力を楽しみにしています。
+- お気軽に以下のプラットフォームのいずれかでお問い合わせください！
+
+## 📫 お問い合わせ方法
+
+複数のプラットフォームでご連絡いただけます！
 - <img src="https://i.imgur.com/y8edTyt.png" align="center" width="25" height="25"> :  whoisdon.bash@proton.me
 - <img src="https://i.imgur.com/Hi1oMJ5.png" align="center" width="25" height="25"> : [`@only.aby`](https://discord.com/users/828677274659586068)
 - <img src="https://i.imgur.com/ir5Mt1n.png" align="center" width="25" height="25"> : [`Github Community`](https://github.com/whoisdon)
 
 ## 🔭 プロジェクト
 
-現在取り組んでいるプロジェクトやまとめているプロジェクトの概要です：
+現在進行中または最終段階にあるいくつかのプロジェクトのクイックビューです：
 
-- 🏗️ [`CommunityStructure`] - クラスベースのアプローチを使用したボット作成を目的とした堅牢なフレームワーク、[`discord.js`]ライブラリ上に構築。
-- 🚂 [`APIExpress`] - クラスベースの [`express.js`] ルート管理テンプレート。
-- 🤖 [`Kuruminha`] - [`discord.js`]と[`CommunityStructure`]に基づいたカスタムフレームワークを使用した革新的な楽しいボット。
+- 🏗️ [`CommunityStructure`] - クラスベースのアプローチを使用してボットを作成するために[`discord.js`]ライブラリをベースにした堅牢なフレームワーク。
+- 🚂 [`APIExpress`] - [`express.js`]用のクラスベースのルーティングモデル。
+- 🤖 [`Kuruminha`] - [`discord.js`]および[`CommunityStructure`]ベースのカスタムフレームワークを使用した創造的なボット。
 
-> 私のプロジェクトを楽しんでいただけましたか？ [`リポジトリ`]に興味を持つものに星を付けてサポートを示してください！これにより、各プロジェクトの背後にある努力が認識されます。
+> プロジェクトが気に入ったら、関連する[`リポジトリ`]にスターを付けてサポートを示してください！これにより、各プロジェクトの背後にある努力が認識されます。
 
 ### 👀 クイック統計
 
@@ -27,7 +47,7 @@
   </tr>
 </table>
 
-> [`GitHub Readme Stats`]提供
+> [`GitHub Readme Stats`] 提供
 
 <!----------------- リンク --------------->
 [`Ruby`]:                https://www.ruby-lang.org/en/
@@ -42,7 +62,7 @@
 [`Discord`]:             https://discord.com/
 [`discord.js`]:          https://discord.js.org/#/
 [`express.js`]:          https://expressjs.com/
-[`リポジトリ`]:           https://github.com/whoisdon?tab=repositories
+[`リポジトリ`]:              https://github.com/whoisdon?tab=repositories
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
 
 <!--------------- Youtube ----------------->
@@ -53,3 +73,4 @@
 [`CommunityStructure`]: https://github.com/whoisdon/CommunityStructure
 [`APIExpress`]:         https://github.com/whoisdon/APIExpress
 [`Kuruminha`]:          https://github.com/whoisdon/CommunityStructure/tree/Kuruminha
+
