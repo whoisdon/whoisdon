@@ -81,8 +81,8 @@ Here's a quick overview of some of the projects I'm currently working on and/or 
 [`Kuruminha`]:          https://github.com/whoisdon/CommunityStructure/tree/Kuruminha
 
 <!--------------- Language ----------------->
-[`Portuguese (Brazil)`]:     ./multilingual-readme/pt-BR/README.md
-[`French`]:                  ./multilingual-readme/fr/README.md
-[`Spanish`]:                 ./multilingual-readme/es/README.md
+[`Portuguese (Brazil)`]:     https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/pt-BR
+[`French`]:                  https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/fr
+[`Spanish`]:                 https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/es
 [`Japanese`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/ja-JA
-[`Mandarin`]:                ./multilingual-readme/zh/README.md
+[`Mandarin`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/zh
