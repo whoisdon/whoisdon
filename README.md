@@ -84,5 +84,5 @@ Here's a quick overview of some of the projects I'm currently working on and/or 
 [`Portuguese (Brazil)`]:     ./multilingual-readme/pt-BR/README.md
 [`French`]:                  ./multilingual-readme/fr/README.md
 [`Spanish`]:                 ./multilingual-readme/es/README.md
-[`Japanese`]:                ./multilingual-readme/ja-JA/README.md
+[`Japanese`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/ja-JA
 [`Mandarin`]:                ./multilingual-readme/zh/README.md
