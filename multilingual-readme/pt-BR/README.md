@@ -28,7 +28,7 @@ Você pode entrar em contato comigo em várias plataformas!
 
 Aqui está uma rápida visão geral de alguns dos projetos nos quais estou trabalhando atualmente e/ou finalizando:
 
-- 🏗️ [`CommunityStructure`] - Uma estrutura robusta, construída na biblioteca [`discord.js`], projetada para a criação de bots usando uma abordagem baseada em classes.
+- 🏗️ [`Guia para Burros`] - Documentação onde praticamente qualquer pessoa pode aprender a criar e manipular um bot no discord.js.
 - 🚂 [`APIExpress`] - Template de gerenciamento de rotas baseado em classes para [`express.js`].
 - 🤖 [`Kuruminha`] - Um bot divertido e criativo projetado para inovação, usando [`discord.js`] e uma estrutura personalizada baseada em [`CommunityStructure`].
 
@@ -77,5 +77,6 @@ Aqui está uma rápida visão geral de alguns dos projetos nos quais estou traba
 
 <!--------------- Projects ----------------->
 [`CommunityStructure`]: https://github.com/whoisdon/CommunityStructure
+[`Guia para Burros`]:   https://github.com/whoisdon/donkeyguide
 [`APIExpress`]:         https://github.com/whoisdon/APIExpress
 [`Kuruminha`]:          https://github.com/whoisdon/CommunityStructure/tree/Kuruminha
