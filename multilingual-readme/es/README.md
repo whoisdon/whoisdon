@@ -28,7 +28,7 @@ Soy un desarrollador autodidacta enfocado principalmente en el desarrollo de bac
 
 Aquí tienes una breve descripción de algunos de los proyectos en los que estoy trabajando actualmente y/o finalizando:
 
-- 🏗️ [`CommunityStructure`] - Un marco robusto, construido sobre la biblioteca [`discord.js`], diseñado para la creación de bots utilizando un enfoque basado en clases.
+- 🏗️ [`Guía del Burro`] - Documentación en la que virtualmente cualquiera puede aprender a crear y manipular un bot en discord.js.
 - 🚂 [`APIExpress`] - Plantilla de gestión de rutas basada en clases para [`express.js`].
 - 🤖 [`Kuruminha`] - Un bot divertido y creativo diseñado para la innovación, utilizando [`discord.js`] y un marco personalizado basado en [`CommunityStructure`].
 
@@ -77,5 +77,6 @@ Aquí tienes una breve descripción de algunos de los proyectos en los que estoy
 
 <!--------------- Proyectos ----------------->
 [`CommunityStructure`]: https://github.com/whoisdon/CommunityStructure
+[`Guía del Burro`]:       https://github.com/whoisdon/donkeyguide
 [`APIExpress`]:         https://github.com/whoisdon/APIExpress
 [`Kuruminha`]:          https://github.com/whoisdon/CommunityStructure/tree/Kuruminha
