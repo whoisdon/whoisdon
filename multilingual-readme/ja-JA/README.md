@@ -28,7 +28,7 @@
 
 現在進行中または最終段階にあるいくつかのプロジェクトのクイックビューです：
 
-- 🏗️ [`CommunityStructure`] - クラスベースのアプローチを使用してボットを作成するために[`discord.js`]ライブラリをベースにした堅牢なフレームワーク。
+- 🏗️ [`ドンキーガイド`] - Discord.jsでボットを作成し操作する方法をほぼ誰でも学べるドキュメンテーション。
 - 🚂 [`APIExpress`] - [`express.js`]用のクラスベースのルーティングモデル。
 - 🤖 [`Kuruminha`] - [`discord.js`]および[`CommunityStructure`]ベースのカスタムフレームワークを使用した創造的なボット。
 
@@ -76,6 +76,7 @@
 
 <!--------------- プロジェクト ----------------->
 [`CommunityStructure`]: https://github.com/whoisdon/CommunityStructure
+[`ドンキーガイド`]:      https://github.com/whoisdon/donkeyguide
 [`APIExpress`]:         https://github.com/whoisdon/APIExpress
 [`Kuruminha`]:          https://github.com/whoisdon/CommunityStructure/tree/Kuruminha
 
