@@ -28,9 +28,9 @@ You can reach out to me on a multitude of platforms!
 
 Here's a quick overview of some of the projects I'm currently working on and/or wrapping up:
 
-- 🏗️ [`CommunityStructure`] - A robust framework, built on the [`discord.js`] library, designed for bot creation using a class-based approach.
+- 🏗️ [`Donkey Guide`] - Documentation where virtually anyone can learn to create and manipulate a bot in discord.js.
 - 🚂 [`APIExpress`] - Class-based [`express.js`] route management template.
-- 🤖 [`Kuruminha`] - A fun, creative bot designed for innovation, using [`discord.js`] and a custom framework based on CommunityStructure.
+- 🤖 [`Kuruminha`] - A fun, creative bot designed for innovation, using [`discord.js`] and a custom framework based on [`CommunityStructure`].
 
 > Enjoyed my projects? Show your support by giving a star to the [`repositories`] you find interesting! It helps recognize the effort behind each project.
 
@@ -81,8 +81,8 @@ Here's a quick overview of some of the projects I'm currently working on and/or 
 [`Kuruminha`]:          https://github.com/whoisdon/CommunityStructure/tree/Kuruminha
 
 <!--------------- Language ----------------->
-[`Portuguese (Brazil)`]:     https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/pt-BR
-[`French`]:                  https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/fr
-[`Spanish`]:                 https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/es
-[`Japanese`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/ja-JA
-[`Mandarin`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/zh
+[`Portuguese (Brazil)`]:     https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/pt-BR/README.md
+[`French`]:                  https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/fr/README.md
+[`Spanish`]:                 https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/es/README.md
+[`Japanese`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/ja-JA/README.md
+[`Mandarin`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/zh/README.md
