@@ -30,7 +30,7 @@
 
 以下是我目前正在开展和/或正在结束的一些项目的快速概述：
 
-- 🏗️ [`CommunityStructure`] - 一个强大的框架，基于 [`discord.js`] 库构建，旨在使用基于类的方法创建机器人。
+- 🏗️ [`驴子指南`] - 这是一份文档，几乎任何人都可以学习如何在 discord.js 中创建和操作机器人。
 - 🚂 [`APIExpress`] - 基于类的 [`express.js`] 路由管理模板。
 - 🤖 [`Kuruminha`] - 一个有趣的创意机器人，使用 [`discord.js`] 和基于 [`CommunityStructure`] 的自定义框架设计。
 
@@ -78,5 +78,6 @@
 
 <!--------------- 项目 ----------------->
 [`CommunityStructure`]: https://github.com/whoisdon/CommunityStructure
+[`驴子指南`]:            https://github.com/whoisdon/donkeyguide
 [`APIExpress`]:         https://github.com/whoisdon/APIExpress
 [`Kuruminha`]:          https://github.com/whoisdon/CommunityStructure/tree/Kuruminha
