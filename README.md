@@ -77,6 +77,7 @@ Here's a quick overview of some of the projects I'm currently working on and/or 
 
 <!--------------- Projects ----------------->
 [`CommunityStructure`]: https://github.com/whoisdon/CommunityStructure
+[`Donkey Guide`]:       https://github.com/whoisdon/donkeyguide
 [`APIExpress`]:         https://github.com/whoisdon/APIExpress
 [`Kuruminha`]:          https://github.com/whoisdon/CommunityStructure/tree/Kuruminha
 
