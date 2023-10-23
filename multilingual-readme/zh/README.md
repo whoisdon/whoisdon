@@ -23,7 +23,7 @@
 
 您可以在多个平台上联系我！
 - <img src="https://i.imgur.com/y8edTyt.png" align="center" width="25" height="25"> :  whoisdon.bash@proton.me
-- <img src="https://i.imgur.com/Hi1oMJ5.png" align="center" width="25" height="25"> : [`@only.aby`](https://discord.com/users/828677274659586068)
+- <img src="https://i.imgur.com/Hi1oMJ5.png" align="center" width="25" height="25"> : [`@only.don`](https://discord.com/users/828677274659586068)
 - <img src="https://i.imgur.com/ir5Mt1n.png" align="center" width="25" height="25"> : [`Github Community`](https://github.com/whoisdon)
 
 ## 🔭 项目
