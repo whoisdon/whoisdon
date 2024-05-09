@@ -1,5 +1,7 @@
 # [`Olá, programadores! Podem me chamar de Don.`]() ⚡  <img src="https://komarev.com/ghpvc/?username=whoisdon&style=flat-square" alt="" align="center" />
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;"></a></p>
+
 Sou um Desenvolvedor focado em backend de São Paulo! ✨ Especializado em Node.js com foco em TypeScript. Apaixonado por colaboração em código aberto, sempre expandindo meu conhecimento em JavaScript (e explorando o mundo do TypeScript 👀). Também tenho experiência em [`PHP`], [`Python`], e até me aventurei no mundo do [`Rust`]
 
 - Um Sorriso nos Desafios: Abordo os desafios com um sorriso! Adoro mergulhar de cabeça em problemas e territórios desconhecidos, e quando isso não funciona, embarco em missões de pesquisa. Surpreendentemente, essa abordagem não convencional para a resolução de problemas deu início à minha jornada na programação! Sou um pesquisador agora, mas apenas depois de explorar o terreno sozinho
