@@ -1,5 +1,7 @@
 # [`こんにちは、コーダーたち！Donと呼んでください。`]() ⚡  <img src="https://komarev.com/ghpvc/?username=whoisdon&style=flat-square" alt="" align="center" />
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;"></a></p>
+
 私はサンパウロのバックエンドに焦点を当てた開発者です！ ✨ TypeScriptを中心にしたNode.jsの専門家です。オープンソースの協力に情熱を注ぎ、JavaScriptの知識を常に拡張しており、TypeScriptの世界も探索しています 👀。[`PHP`]、[`Python`]、さらには[`Rust`]の経験もあります。
 
 - チャレンジに笑顔で臨む：私はチャレンジを笑顔で迎えます！問題と未知の領域に飛び込むことが大好きで、それがうまくいかない場合は、リサーチミッションに飛び込みます。驚くべきことに、この問題解決の非伝統的なアプローチが私のプログラミングの旅をスタートさせました！今はリサーチャーですが、孤独な探求の後です。
