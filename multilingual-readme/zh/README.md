@@ -1,5 +1,7 @@
 # [`大家好，程序员们！你们可以叫我 Don。`]() ⚡  <img src="https://komarev.com/ghpvc/?username=whoisdon&style=flat-square" alt="" align="center" />
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;"></a></p>
+
 我是一位主要专注于后端开发的自学开发者，一切始于 2020 年我在观看 [`Stackz`] 和 [`Rato Borrachudo`] 的视频时，他们在视频中展示了如何使用记事本创建病毒。从那一刻起，我的编程之旅开始了！从那时起，我成为了一个充满激情的后端开发者，深入研究代码，充分融入了这个激动人心的冒险。我的起点可能很简单，但我对编程的热情比以往任何时候都更加充沛。
 
 我专注于 Node.js，尤其是 TypeScript。我热衷于开源协作，不断扩展自己在 JavaScript 方面的知识（并探索 TypeScript 的世界 👀）。我还有 [`PHP`]、[`Python`] 的经验，甚至冒险涉足了 [`Rust`] 的领域
