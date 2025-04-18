@@ -1,42 +1,61 @@
-# [`Olá, programadores! Podem me chamar de Don.`]() ⚡  <img src="https://komarev.com/ghpvc/?username=whoisdon&style=flat-square" alt="" align="center" />
+# [`Hey, I'm Don`](https://github.com/whoisdon) ⚡  <img src="https://komarev.com/ghpvc/?username=whoisdon&style=flat-square" alt="" align="center" />
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;"></a></p>
 
-Sou um Desenvolvedor focado em backend de São Paulo! ✨ Especializado em Node.js com foco em TypeScript. Apaixonado por colaboração em código aberto, sempre expandindo meu conhecimento em JavaScript (e explorando o mundo do TypeScript 👀). Também tenho experiência em [`PHP`], [`Python`], e até me aventurei no mundo do [`Rust`]
+Sou desenvolvedor com foco em back-end, com experiência sólida em Node.js, Python e TypeScript. Atuo de forma autodidata desde 2020, desenvolvendo soluções escaláveis, APIs modernas e sistemas automatizados. Busco constantemente aperfeiçoar minhas habilidades técnicas enquanto colaboro com projetos open source e times de desenvolvimento.
 
-- Um Sorriso nos Desafios: Abordo os desafios com um sorriso! Adoro mergulhar de cabeça em problemas e territórios desconhecidos, e quando isso não funciona, embarco em missões de pesquisa. Surpreendentemente, essa abordagem não convencional para a resolução de problemas deu início à minha jornada na programação! Sou um pesquisador agora, mas apenas depois de explorar o terreno sozinho
-- Complexidades no Trato com Linguagens Fortemente Tipadas (como [`Go`], [`Ruby`] ou [`Zig`]): Minha relação com certas linguagens de programação é uma jornada intrigante, semelhante a explorar territórios diversos. Embora eu tenha a capacidade de decifrar suas complexidades e entender seu funcionamento interno, minha velocidade de digitação nessas linguagens se assemelha a uma caminhada espacial meticulosamente executada - lenta e calculada. No entanto, no mundo das linguagens com as quais me sinto mais à vontade (como [`TypeScript`]), minha digitação se transforma em uma corrida de alta velocidade. É uma coreografia criativa que combina perfeitamente compreensão e golpes precisos, mesmo quando confrontado com as complexidades de sistemas fortemente tipados!
+---
 
-## 📚 Experiência
+## 🧠 Sobre mim
 
-Sou um desenvolvedor autodidata focado principalmente em desenvolvimento de back-end, e tudo começou de forma inesperada em 2020, enquanto eu assistia vídeos do [`Stackz`] e [`Rato Borrachudo`] sobre como criar vírus com o bloco de notas. A partir desse momento, minha jornada na programação decolou! Desde então, me tornei um apaixonado desenvolvedor de back-end, mergulhando no código e me lançando de cabeça nessa emocionante aventura. Meus começos podem ter sido simples, mas minha paixão pela programação está mais vibrante do que nunca.
+- Desenvolvedor Backend de São Paulo, especializado em **TypeScript**, **JavaScript** e **Node.js**
+- Mais de **3 anos de experiência** construindo sistemas com foco em performance e legibilidade
+- Conhecimento prático em **Python**, **PHP** e noções de **Rust**
+- Entusiasta da **colaboração em código aberto** e boas práticas de engenharia de software
+- Acredito que **resolver problemas complexos de forma simples** é o verdadeiro poder de um bom dev
+- Estou sempre aberto para trocar ideias e colaborar em projetos desafiadores!
 
-### Notas-chave ✍️
+---
 
-- Desenvolvedor autodidata com foco principal no desenvolvimento de back-end.
-- Minha paixão pela programação começou a se desdobrar de forma inesperada em 2020, quando comecei a explorar vídeos de programação de criadores como Stackz e Rato Borrachudo.
-- Mais de 3 anos de experiência com TypeScript, JavaScript e Node.js.
-- Ansioso para aprender continuamente e colaborar em ambientes de equipe.
-- Sempre aberto para um bate-papo! Sinta-se à vontade para entrar em contato comigo em qualquer uma das plataformas listadas abaixo!
+## 🛠️ Tecnologias e Ferramentas
 
-## 📫 Como me encontrar
+**Principais stacks**:  
+`Node.js` · `TypeScript` · `Python` · `PostgreSQL` · `MySQL` · `AWS` · `MongoDB` · `Docker` · `Redis`
 
-Você pode entrar em contato comigo em várias plataformas!
-- <img src="https://i.imgur.com/y8edTyt.png" align="center" width="25" height="25"> :  whoisdon.bash@proton.me
-- <img src="https://i.imgur.com/Hi1oMJ5.png" align="center" width="25" height="25"> : [`@9iof`](https://discord.com/users/828677274659586068)
-- <img src="https://i.imgur.com/ir5Mt1n.png" align="center" width="25" height="25"> : [`Github Community`](https://github.com/whoisdon)
+---
 
-## 🔭 Projetos
+## 📌 Projetos em destaque
 
-Aqui está uma rápida visão geral de alguns dos projetos nos quais estou trabalhando atualmente e/ou finalizando:
+- ✍️ [`HandSign`](https://github.com/whoisdon/HandSign)  
+  Sistema de **transcrição de linguagem de sinais** em tempo real utilizando modelos de visão computacional. Uma abordagem moderna para acessibilidade digital.
 
-- 🏗️ [`Guia para Burros`] - Documentação onde praticamente qualquer pessoa pode aprender a criar e manipular um bot no discord.js.
-- 🚂 [`APIExpress`] - Template de gerenciamento de rotas baseado em classes para [`express.js`].
-- 🤖 [`Kuruminha`] - Um bot divertido e criativo projetado para inovação, usando [`discord.js`] e uma estrutura personalizada baseada em [`CommunityStructure`].
+- 🧩 [`APIExpress`](https://github.com/whoisdon/APIExpress)  
+  Template com arquitetura limpa e modular para projetos Express.js orientados a classe.
 
-> Gostou dos meus projetos? Mostre seu apoio dando uma estrela aos [`repositórios`] que você achar interessantes! Isso ajuda a reconhecer o esforço por trás de cada projeto.
+- 🤖 [`Kuruminha`](https://github.com/whoisdon/CommunityStructure/tree/Kuruminha)  
+  Bot desenvolvido em Discord.js com estrutura personalizada voltada para escalabilidade e extensibilidade.
 
-### 👀 Estatísticas Rápidas
+> Curtiu algum projeto? Deixe uma ⭐ nos repositórios — isso ajuda a dar visibilidade ao trabalho investido!
+
+---
+
+## 📚 Trajetória
+
+Minha jornada na programação começou de forma inusitada em 2020, assistindo vídeos de criadores como [`Stackz`] e [`Rato Borrachudo`], explorando scripts curiosos com o Bloco de Notas. Desde então, mergulhei de cabeça no mundo do desenvolvimento, focando em backend e infraestrutura.
+
+O que começou como curiosidade virou uma paixão e, hoje, uma carreira. Estou sempre buscando novos desafios técnicos e oportunidades para construir soluções que gerem impacto real.
+
+---
+
+## 📬 Onde me encontrar
+
+- 📧 Email: [whoisdon.bash@proton.me](mailto:whoisdon.bash@proton.me)
+- 💬 Discord: [`@9iof`](https://discord.com/users/828677274659586068)
+- 🧑‍💻 GitHub Community: [whoisdon](https://github.com/whoisdon)
+
+---
+
+## 📊 Estatísticas
 
 <table>
   <tr>
@@ -54,31 +73,16 @@ Aqui está uma rápida visão geral de alguns dos projetos nos quais estou traba
   </tr>
 </table>
 
-> Fornecido por [`GitHub Readme Stats`]
+> README disponível em: [`Portuguese (Brazil)`], [`French`], [`Spanish`], [`Japanese`] e [`Mandarin`]
 
+---
 
-<!----------------- LINKS --------------->
-[`Ruby`]:                https://www.ruby-lang.org/en/
-[`Zig`]:                 https://ziglang.org/
-[`PHP`]:                 https://www.php.net/
-[`Python`]:              https://www.python.org/
-[`TypeScript`]:          https://www.typescriptlang.org/
-[`Kotlin`]:              https://kotlinlang.org/
-[`Java`]:                https://adoptopenjdk.net/
-[`Rust`]:                https://www.rust-lang.org/
-[`Go`]:                  https://golang.org
-[`Discord`]:             https://discord.com/
-[`discord.js`]:          https://discord.js.org/#/
-[`express.js`]:          https://expressjs.com/
-[`repositórios`]:        https://github.com/whoisdon?tab=repositories
-[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
-
-<!--------------- Youtube ----------------->
+<!---------------- LINKS ----------------->
 [`Stackz`]:             https://www.youtube.com/@STACKZOFICIAL
 [`Rato Borrachudo`]:    https://www.youtube.com/@RatoBorrachudo
-
-<!--------------- Projects ----------------->
-[`CommunityStructure`]: https://github.com/whoisdon/CommunityStructure
-[`Guia para Burros`]:   https://github.com/whoisdon/donkeyguide
-[`APIExpress`]:         https://github.com/whoisdon/APIExpress
-[`Kuruminha`]:          https://github.com/whoisdon/CommunityStructure/tree/Kuruminha
+<!--------------- Language ----------------->
+[`Portuguese (Brazil)`]:     https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/pt-BR/README.md
+[`French`]:                  https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/fr/README.md
+[`Spanish`]:                 https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/es/README.md
+[`Japanese`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/ja-JA/README.md
+[`Mandarin`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/zh/README.md
