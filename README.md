@@ -1,42 +1,61 @@
-# [`Hello, coders! You can call me Don.`]() ⚡  <img src="https://komarev.com/ghpvc/?username=whoisdon&style=flat-square" alt="" align="center" />
+# [`Hey, I'm Don`](https://github.com/whoisdon) ⚡  <img src="https://komarev.com/ghpvc/?username=whoisdon&style=flat-square" alt="" align="center" />
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;"></a></p>
 
-I'm a Backend-focused Developer from São Paulo! ✨ Specialized in Node.js with a focus on TypeScript. Passionate about open-source collaboration, constantly expanding my knowledge in JavaScript (and exploring the world of TypeScript 👀). I also have experience in [`PHP`], [`Python`], and even ventured into the realm of [`Rust`]
+I'm a backend-focused developer with solid experience in Node.js, Python, and TypeScript. Self-taught since 2020, I build scalable solutions, modern APIs, and automated systems. I'm constantly improving my technical skills while collaborating on open-source projects and development teams.
 
-- A Smile in Challenges: I approach challenges with a smile! I love diving headfirst into problems and uncharted territories, and when that doesn't work, I embark on research missions. Surprisingly, this unconventional approach to problem-solving kickstarted my journey into programming! I'm a researcher now, but only after I've explored the terrain solo
-- Complexities in Dealing with Strongly Typed Languages (like [`Go`], [`Ruby`] or [`Zig`]: My relationship with certain programming languages is an intriguing journey, akin to exploring diverse realms. While I possess the capability to decipher their intricacies and grasp their inner workings, my typing pace within these languages resembles a meticulously executed spacewalk—slow and calculated. However, in the realm of languages I find myself more at ease with (like [`TypeScript`]), my typing becomes a high-speed race. It's a creative choreography that seamlessly combines comprehension and precise keystrokes, even when confronted with the intricacies of strongly typed systems!
+---
 
-## 📚 Experience
+## 🧠 About Me
 
-I'm a self-taught developer primarily focused on back-end development, and it all began unexpectedly in 2020 while I was watching [`Stackz`] and [`Rato Borrachudo`] videos on how to create viruses with notepad. From that moment on, my programming journey took off! Since then, I've become a passionate back-end developer, delving into code and diving headfirst into this thrilling adventure. My beginnings may have been simple, but my passion for programming is more vibrant than ever.
+- Backend Developer from São Paulo, specialized in **TypeScript**, **JavaScript**, and **Node.js**
+- Over **3 years of experience** building systems focused on performance and readability
+- Hands-on experience with **Python**, **PHP**, and basic knowledge of **Rust**
+- Open-source **code collaboration** and software engineering best practices enthusiast
+- I believe that **solving complex problems in simple ways** is the true power of a good developer
+- Always open to share ideas and collaborate on challenging projects!
 
-### Key Notes ✍️
+---
 
-- Self-taught developer with a primary focus on back-end development.
-- My passion for programming began to unexpectedly unfold in 2020 when I started exploring programming videos from creators like Stackz and Rato Borrachudo.
-- Over 3 years of experience with TypeScript, JavaScript, and Node.js.
-- Eager to continuously learn and collaborate in team environments.
-- Always open for a chat! Feel free to reach out to me on any of the platforms listed below!
+## 🛠️ Technologies and Tools
 
-## 📫 How to reach me
+**Main stacks**:  
+`Node.js` · `TypeScript` · `Python` · `PostgreSQL` · `MySQL` · `AWS` · `MongoDB` · `Docker` · `Redis`
 
-You can reach out to me on a multitude of platforms!
-- <img src="https://i.imgur.com/y8edTyt.png" align="center" width="25" height="25"> :  whoisdon.bash@proton.me
-- <img src="https://i.imgur.com/Hi1oMJ5.png" align="center" width="25" height="25"> : [`@9iof`](https://discord.com/users/828677274659586068)
-- <img src="https://i.imgur.com/ir5Mt1n.png" align="center" width="25" height="25"> : [`Github Community`](https://github.com/whoisdon)
+---
 
-## 🔭 Projects
+## 📌 Highlighted Projects
 
-Here's a quick overview of some of the projects I'm currently working on and/or wrapping up:
+- ✍️ [`HandSign`](https://github.com/whoisdon/HandSign)  
+  **Real-time sign language transcription system** using computer vision models. A modern approach to digital accessibility.
 
-- 🏗️ [`Donkey Guide`] - Documentation where virtually anyone can learn to create and manipulate a bot in discord.js.
-- 🚂 [`APIExpress`] - Class-based [`express.js`] route management template.
-- 🤖 [`Kuruminha`] - A fun, creative bot designed for innovation, using [`discord.js`] and a custom framework based on [`CommunityStructure`].
+- 🧩 [`APIExpress`](https://github.com/whoisdon/APIExpress)  
+  Template with clean and modular architecture for class-based Express.js projects.
 
-> Enjoyed my projects? Show your support by giving a star to the [`repositories`] you find interesting! It helps recognize the effort behind each project.
+- 🤖 [`Kuruminha`](https://github.com/whoisdon/CommunityStructure/tree/Kuruminha)  
+  Bot built with Discord.js featuring a customized structure aimed at scalability and extensibility.
 
-### 👀 Quick Statistics
+> Liked a project? Leave a ⭐ on the repositories — it helps give visibility to the work invested!
+
+---
+
+## 📚 Journey
+
+My programming journey started unexpectedly in 2020, watching creators like [`Stackz`] and [`Rato Borrachudo`], exploring quirky scripts with Notepad. Since then, I dove deep into development, focusing on backend and infrastructure.
+
+What started as curiosity became a passion and today, a career. I'm always looking for new technical challenges and opportunities to build impactful solutions.
+
+---
+
+## 📬 Where to Find Me
+
+- 📧 Email: [whoisdon.bash@proton.me](mailto:whoisdon.bash@proton.me)
+- 💬 Discord: [`@9iof`](https://discord.com/users/828677274659586068)
+- 🧑‍💻 GitHub Community: [whoisdon](https://github.com/whoisdon)
+
+---
+
+## 📊 Stats
 
 <table>
   <tr>
@@ -54,35 +73,13 @@ Here's a quick overview of some of the projects I'm currently working on and/or 
   </tr>
 </table>
 
-> Provided by [`GitHub Readme Stats`] <br>
-> Support the languages of the README [`Portuguese (Brazil)`], [`French`], [`Spanish`], [`Japanese`] and [`Mandarin`]
+> README available in: [`Portuguese (Brazil)`], [`French`], [`Spanish`], [`Japanese`] and [`Mandarin`]
 
-<!----------------- LINKS --------------->
-[`Ruby`]:                https://www.ruby-lang.org/en/
-[`Zig`]:                 https://ziglang.org/
-[`PHP`]:                 https://www.php.net/
-[`Python`]:              https://www.python.org/
-[`TypeScript`]:          https://www.typescriptlang.org/
-[`Kotlin`]:              https://kotlinlang.org/
-[`Java`]:                https://adoptopenjdk.net/
-[`Rust`]:                https://www.rust-lang.org/
-[`Go`]:                  https://golang.org
-[`Discord`]:             https://discord.com/
-[`discord.js`]:          https://discord.js.org/#/
-[`express.js`]:          https://expressjs.com/
-[`repositories`]:        https://github.com/whoisdon?tab=repositories
-[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
+---
 
-<!--------------- Youtube ----------------->
+<!---------------- LINKS ----------------->
 [`Stackz`]:             https://www.youtube.com/@STACKZOFICIAL
 [`Rato Borrachudo`]:    https://www.youtube.com/@RatoBorrachudo
-
-<!--------------- Projects ----------------->
-[`CommunityStructure`]: https://github.com/whoisdon/CommunityStructure
-[`Donkey Guide`]:       https://github.com/whoisdon/donkeyguide
-[`APIExpress`]:         https://github.com/whoisdon/APIExpress
-[`Kuruminha`]:          https://github.com/whoisdon/CommunityStructure/tree/Kuruminha
-
 <!--------------- Language ----------------->
 [`Portuguese (Brazil)`]:     https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/pt-BR/README.md
 [`French`]:                  https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/fr/README.md
