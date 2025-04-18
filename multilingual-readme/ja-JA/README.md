@@ -1,42 +1,61 @@
-# [`こんにちは、コーダーたち！Donと呼んでください。`]() ⚡  <img src="https://komarev.com/ghpvc/?username=whoisdon&style=flat-square" alt="" align="center" />
+# [`やあ、Donです`](https://github.com/whoisdon) ⚡  <img src="https://komarev.com/ghpvc/?username=whoisdon&style=flat-square" alt="" align="center" />
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;"></a></p>
 
-私はサンパウロのバックエンドに焦点を当てた開発者です！ ✨ TypeScriptを中心にしたNode.jsの専門家です。オープンソースの協力に情熱を注ぎ、JavaScriptの知識を常に拡張しており、TypeScriptの世界も探索しています 👀。[`PHP`]、[`Python`]、さらには[`Rust`]の経験もあります。
+私はNode.js、Python、TypeScriptに精通したバックエンド中心の開発者です。2020年から独学で学び、スケーラブルなソリューション、モダンなAPI、自動化システムを構築しています。オープンソースプロジェクトや開発チームに貢献しながら、技術力を日々向上させています。
 
-- チャレンジに笑顔で臨む：私はチャレンジを笑顔で迎えます！問題と未知の領域に飛び込むことが大好きで、それがうまくいかない場合は、リサーチミッションに飛び込みます。驚くべきことに、この問題解決の非伝統的なアプローチが私のプログラミングの旅をスタートさせました！今はリサーチャーですが、孤独な探求の後です。
-- 強力な型付け言語（[`Go`]、[`Ruby`]、または[`Zig`]など）との作業の複雑さ：私とプログラミング言語の一部との関係は、異なる領域を探索するのに似た魅力的な旅です。これらの言語の複雑さを解読し、内部の動作を理解する能力は持っていますが、これらの言語でのタイピング速度は細心の注意を払って計算的に実行される宇宙遊泳に似ています - 遅く計算されます。しかし、[`TypeScript`]のように、私がより快適に感じる言語の領域では、私のタイピングは高速のレースに変わります。これは理解と正確なタイピングの完璧なコンビネーションであり、強力な型付けシステムの複雑さに直面しても優れたダンスです！
+---
 
-## 📚 経験
+## 🧠 自己紹介
 
-私はバックエンド開発を中心に自己学習型の開発者です。2020年には[`Stackz`]と[`Rato Borrachudo`]のプログラム動画を見ながら、メモ帳でウイルスを作成する方法を学ぶことから予想外に始まりました。それ以来、プログラミングの旅が始まり、情熱的なバックエンド開発者になり、コードに飛び込み、このワクワクする冒険に挑みました。私の最初のステップは単純かもしれませんが、プログラミングへの情熱は今もっとも輝いています。
+- サンパウロ出身のバックエンド開発者。**TypeScript**、**JavaScript**、**Node.js**が専門
+- パフォーマンスと可読性を重視したシステムを構築してきた**3年以上の経験**
+- **Python**、**PHP**に実務経験があり、**Rust**の基礎知識あり
+- オープンソース**コードの共同作業**とソフトウェアエンジニアリングのベストプラクティスを推進
+- **複雑な問題をシンプルに解決する**のが優れた開発者の本質だと信じています
+- アイデアの共有や挑戦的なプロジェクトへの協力はいつでも大歓迎！
 
-### キーポイント ✍️
+---
 
-- バックエンド開発を中心に自己学習型の開発者です。
-- プログラミングへの情熱は、[`Stackz`]や[`Rato Borrachudo`]などのクリエイターのプログラム動画を探求し始めた2020年に予想外に広がりました。
-- TypeScript、JavaScript、Node.jsの3年以上の経験があります。
-- 常に学び続け、チーム環境で協力を楽しみにしています。
-- お気軽に以下のプラットフォームのいずれかでお問い合わせください！
+## 🛠️ 技術とツール
 
-## 📫 お問い合わせ方法
+**主なスタック**：  
+`Node.js` · `TypeScript` · `Python` · `PostgreSQL` · `MySQL` · `AWS` · `MongoDB` · `Docker` · `Redis`
 
-複数のプラットフォームでご連絡いただけます！
-- <img src="https://i.imgur.com/y8edTyt.png" align="center" width="25" height="25"> :  whoisdon.bash@proton.me
-- <img src="https://i.imgur.com/Hi1oMJ5.png" align="center" width="25" height="25"> : [`@9iof`](https://discord.com/users/828677274659586068)
-- <img src="https://i.imgur.com/ir5Mt1n.png" align="center" width="25" height="25"> : [`Github Community`](https://github.com/whoisdon)
+---
 
-## 🔭 プロジェクト
+## 📌 注目プロジェクト
 
-現在進行中または最終段階にあるいくつかのプロジェクトのクイックビューです：
+- ✍️ [`HandSign`](https://github.com/whoisdon/HandSign)  
+  **コンピュータビジョンモデル**を活用したリアルタイムの手話文字起こしシステム。デジタルアクセシビリティへのモダンなアプローチ。
 
-- 🏗️ [`ドンキーガイド`] - Discord.jsでボットを作成し操作する方法をほぼ誰でも学べるドキュメンテーション。
-- 🚂 [`APIExpress`] - [`express.js`]用のクラスベースのルーティングモデル。
-- 🤖 [`Kuruminha`] - [`discord.js`]および[`CommunityStructure`]ベースのカスタムフレームワークを使用した創造的なボット。
+- 🧩 [`APIExpress`](https://github.com/whoisdon/APIExpress)  
+  クリーンでモジュール化されたアーキテクチャを備えた、クラスベースのExpress.jsプロジェクト用テンプレート。
 
-> プロジェクトが気に入ったら、関連する[`リポジトリ`]にスターを付けてサポートを示してください！これにより、各プロジェクトの背後にある努力が認識されます。
+- 🤖 [`Kuruminha`](https://github.com/whoisdon/CommunityStructure/tree/Kuruminha)  
+  拡張性とスケーラビリティを重視したカスタム構造のDiscord.js製ボット。
 
-### 👀 クイック統計
+> 気に入ったプロジェクトがあれば、リポジトリに⭐をつけてください — モチベーションアップにもつながります！
+
+---
+
+## 📚 開発の歩み
+
+2020年、[`Stackz`]と[`Rato Borrachudo`]の動画を観て、メモ帳でおかしなスクリプトを試したのがきっかけでプログラミングの道に入りました。それ以来、開発の世界にのめり込み、バックエンドやインフラに特化してきました。
+
+好奇心から始まったものが情熱となり、今ではキャリアに。インパクトのあるソリューションを作るため、常に新しい技術的挑戦を求めています。
+
+---
+
+## 📬 連絡先
+
+- 📧 メール: [whoisdon.bash@proton.me](mailto:whoisdon.bash@proton.me)
+- 💬 Discord: [`@9iof`](https://discord.com/users/828677274659586068)
+- 🧑‍💻 GitHubコミュニティ: [whoisdon](https://github.com/whoisdon)
+
+---
+
+## 📊 統計情報
 
 <table>
   <tr>
@@ -54,31 +73,17 @@
   </tr>
 </table>
 
-> [`GitHub Readme Stats`] 提供
+> READMEの他言語版： [`Portuguese (Brazil)`]、[`French`]、[`Spanish`]、[`Japanese`]、[`Mandarin`]
 
-<!----------------- リンク --------------->
-[`Ruby`]:                https://www.ruby-lang.org/en/
-[`Zig`]:                 https://ziglang.org/
-[`PHP`]:                 https://www.php.net/
-[`Python`]:              https://www.python.org/
-[`TypeScript`]:          https://www.typescriptlang.org/
-[`Kotlin`]:              https://kotlinlang.org/
-[`Java`]:                https://adoptopenjdk.net/
-[`Rust`]:                https://www.rust-lang.org/
-[`Go`]:                  https://golang.org
-[`Discord`]:             https://discord.com/
-[`discord.js`]:          https://discord.js.org/#/
-[`express.js`]:          https://expressjs.com/
-[`リポジトリ`]:              https://github.com/whoisdon?tab=repositories
-[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
+---
 
-<!--------------- Youtube ----------------->
-[`Stackz`]:             https://www.youtube.com/@STACKZOFICIAL
-[`Rato Borrachudo`]:    https://www.youtube.com/@RatoBorrachudo
+<!---------------- リンク ----------------->
+[`Stackz`]:             https://www.youtube.com/@STACKZOFICIAL  
+[`Rato Borrachudo`]:    https://www.youtube.com/@RatoBorrachudo  
 
-<!--------------- プロジェクト ----------------->
-[`CommunityStructure`]: https://github.com/whoisdon/CommunityStructure
-[`ドンキーガイド`]:      https://github.com/whoisdon/donkeyguide
-[`APIExpress`]:         https://github.com/whoisdon/APIExpress
-[`Kuruminha`]:          https://github.com/whoisdon/CommunityStructure/tree/Kuruminha
-
+<!--------------- 言語別バージョン ----------------->
+[`Portuguese (Brazil)`]:     https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/pt-BR/README.md  
+[`French`]:                  https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/fr/README.md  
+[`Spanish`]:                 https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/es/README.md  
+[`Japanese`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/ja-JA/README.md  
+[`Mandarin`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/zh/README.md  
