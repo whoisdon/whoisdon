@@ -55,24 +55,6 @@
 
 ---
 
-## 📊 统计信息
-
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=whoisdon&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true%22" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisdon&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" style="padding=0;width=100%;">
-      <img align="center" style="padding=0;" src="https://github-readme-activity-graph.vercel.app/graph?username=whoisdon&theme=tokyo-night&custom_title=Whoisdon's%20Contribution%20Graph" />
-    </td>
-  </tr>
-</table>
-
 > 该README可用语言： [`Portuguese (Brazil)`]、[`French`]、[`Spanish`]、[`Japanese`]、[`Mandarin`]
 
 ---
@@ -82,8 +64,8 @@
 [`Rato Borrachudo`]:    https://www.youtube.com/@RatoBorrachudo  
 
 <!--------------- 语言版本 ----------------->
-[`Portuguese (Brazil)`]:     https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/pt-BR/README.md  
-[`French`]:                  https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/fr/README.md  
-[`Spanish`]:                 https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/es/README.md  
-[`Japanese`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/ja-JA/README.md  
-[`Mandarin`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/zh/README.md  
+[`Portuguese (Brazil)`]:     /multilingual-readme/pt-BR/README.md  
+[`French`]:                  /multilingual-readme/fr/README.md  
+[`Spanish`]:                 /multilingual-readme/es/README.md  
+[`Japanese`]:                /multilingual-readme/ja-JA/README.md  
+[`Mandarin`]:                /multilingual-readme/zh/README.md  
