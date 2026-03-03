@@ -55,24 +55,6 @@ Lo que comenzó como curiosidad se convirtió en pasión y hoy en día, en una c
 
 ---
 
-## 📊 Estadísticas
-
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=whoisdon&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true%22" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisdon&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" style="padding=0;width=100%;">
-      <img align="center" style="padding=0;" src="https://github-readme-activity-graph.vercel.app/graph?username=whoisdon&theme=tokyo-night&custom_title=Whoisdon's%20Contribution%20Graph" />
-    </td>
-  </tr>
-</table>
-
 > README disponible en: [`Portugués (Brasil)`], [`Francés`], [`Español`], [`Japonés`] y [`Mandarín`]
 
 ---
@@ -81,8 +63,8 @@ Lo que comenzó como curiosidad se convirtió en pasión y hoy en día, en una c
 [`Stackz`]:             https://www.youtube.com/@STACKZOFICIAL
 [`Rato Borrachudo`]:    https://www.youtube.com/@RatoBorrachudo
 <!--------------- Idiomas ----------------->
-[`Portugués (Brasil)`]:     https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/pt-BR/README.md
-[`Francés`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/fr/README.md
-[`Español`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/es/README.md
-[`Japonés`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/ja-JA/README.md
-[`Mandarín`]:               https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/zh/README.md
+[`Portugués (Brasil)`]:     /multilingual-readme/pt-BR/README.md
+[`Francés`]:                /multilingual-readme/fr/README.md
+[`Español`]:                /multilingual-readme/es/README.md
+[`Japonés`]:                /multilingual-readme/ja-JA/README.md
+[`Mandarín`]:               /multilingual-readme/zh/README.md
