@@ -63,8 +63,8 @@ What started as curiosity became a passion and today, a career. I'm always looki
 [`Stackz`]:             https://www.youtube.com/@STACKZOFICIAL
 [`Rato Borrachudo`]:    https://www.youtube.com/@RatoBorrachudo
 <!--------------- Language ----------------->
-[`Portuguese (Brazil)`]:     https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/pt-BR/README.md
-[`French`]:                  https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/fr/README.md
-[`Spanish`]:                 https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/es/README.md
-[`Japanese`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/ja-JA/README.md
-[`Mandarin`]:                https://github.com/whoisdon/whoisdon/tree/main/multilingual-readme/zh/README.md
+[`Portuguese (Brazil)`]:     /multilingual-readme/pt-BR/README.md
+[`French`]:                  /multilingual-readme/fr/README.md
+[`Spanish`]:                 /multilingual-readme/es/README.md
+[`Japanese`]:                /multilingual-readme/ja-JA/README.md
+[`Mandarin`]:                /multilingual-readme/zh/README.md
