@@ -1,71 +1,15 @@
-# [`你好，我是Don`](https://github.com/whoisdon) ⚡  <img src="https://komarev.com/ghpvc/?username=whoisdon&style=flat-square" alt="" align="center" />
+<img src="../../assets/zh/hero.svg" width="100%" alt="const kalil：圣保罗的软件工程师，正在构建 LexFlow、contaazul-cli 和 Jeremias" />
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;"></a></p>
+<p align="center"><a href="https://sistema.lexgroup.com.br"><img src="../../assets/zh/tile-lexflow.svg" width="50%" alt="LexFlow：整个律所，尽在一个流程" /></a><a href="https://github.com/whoisdon/ContaAzul"><img src="../../assets/zh/tile-contaazul.svg" width="50%" alt="contaazul-cli：Conta Azul Pro v2 API 命令行工具" /></a><br /><a href="https://github.com/whoisdon/Jeremias"><img src="../../assets/zh/tile-jeremias.svg" width="50%" alt="Jeremias：适用于任何网站的调皮鸭子" /></a><a href="https://github.com/whoisdon/HandSign"><img src="../../assets/zh/tile-handsign.svg" width="50%" alt="HandSign：实时手势识别" /></a></p>
 
-我是一名专注于后端的开发人员，精通Node.js、Python和TypeScript。自2020年起自学编程，构建可扩展的解决方案、现代API和自动化系统。我不断提升我的技术能力，并在开源项目和开发团队中协作。
+<img src="../../assets/zh/stack.svg" width="100%" alt="技术栈：TypeScript, JavaScript, Python, Java, C, SQL, Next.js, React, Node.js, NestJS, PostgreSQL, Docker, AWS" />
 
----
+<p align="center">
+  <a href="mailto:whoisdon.bash@proton.me"><img src="../../assets/zh/contact-email.svg" height="44" alt="Email: whoisdon.bash@proton.me" /></a>&nbsp;
+  <a href="https://discord.com/users/828677274659586068"><img src="../../assets/zh/contact-discord.svg" height="44" alt="Discord: @9iof" /></a>&nbsp;
+  <a href="https://github.com/whoisdon?tab=repositories"><img src="../../assets/zh/contact-github.svg" height="44" alt="GitHub: @whoisdon" /></a>
+</p>
 
-## 🧠 关于我
+<img src="../../assets/zh/footer.svg" width="100%" alt="footer" />
 
-- 来自圣保罗的后端开发人员，专注于**TypeScript**、**JavaScript**和**Node.js**
-- 拥有**3年以上的经验**，致力于构建注重性能和可读性的系统
-- 有**Python**、**PHP**的实际经验，并且对**Rust**有基础了解
-- 热衷于开源**代码协作**和软件工程最佳实践
-- 我相信**以简单的方式解决复杂问题**才是优秀开发者的真正力量
-- 始终欢迎分享想法并参与具有挑战性的项目！
-
----
-
-## 🛠️ 技术与工具
-
-**主要技术栈**：  
-`Node.js` · `TypeScript` · `Python` · `PostgreSQL` · `MySQL` · `AWS` · `MongoDB` · `Docker` · `Redis`
-
----
-
-## 📌 重点项目
-
-- ✍️ [`HandSign`](https://github.com/whoisdon/HandSign)  
-  **基于计算机视觉模型的实时手语转录系统**。数字无障碍的现代方法。
-
-- 🧩 [`APIExpress`](https://github.com/whoisdon/APIExpress)  
-  具有清晰且模块化架构的Express.js项目模板。
-
-- 🤖 [`Kuruminha`](https://github.com/whoisdon/CommunityStructure/tree/Kuruminha)  
-  使用Discord.js构建的机器人，具有定制化结构，旨在提高可扩展性和可扩展性。
-
-> 喜欢这个项目吗？请在仓库中留下一个⭐ — 这有助于提高项目的可见度！
-
----
-
-## 📚 我的编程历程
-
-我的编程之旅始于2020年，当时我观看了[`Stackz`]和[`Rato Borrachudo`]等创作者的内容，使用记事本探索有趣的脚本。从那时起，我深入学习了开发，并专注于后端和基础设施。
-
-最初的好奇心变成了热情，而今天，它已经成为了我的职业生涯。我一直在寻找新的技术挑战和机会，打造有影响力的解决方案。
-
----
-
-## 📬 联系我
-
-- 📧 邮箱: [whoisdon.bash@proton.me](mailto:whoisdon.bash@proton.me)
-- 💬 Discord: [`@9iof`](https://discord.com/users/828677274659586068)
-- 🧑‍💻 GitHub社区: [whoisdon](https://github.com/whoisdon)
-
----
-
-> 该README可用语言： [`Portuguese (Brazil)`]、[`French`]、[`Spanish`]、[`Japanese`]、[`Mandarin`]
-
----
-
-<!---------------- 链接 ----------------->
-[`Stackz`]:             https://www.youtube.com/@STACKZOFICIAL  
-[`Rato Borrachudo`]:    https://www.youtube.com/@RatoBorrachudo  
-
-<!--------------- 语言版本 ----------------->
-[`Portuguese (Brazil)`]:     /multilingual-readme/pt-BR/README.md  
-[`French`]:                  /multilingual-readme/fr/README.md  
-[`Spanish`]:                 /multilingual-readme/es/README.md  
-[`Japanese`]:                /multilingual-readme/ja-JA/README.md  
-[`Mandarin`]:                /multilingual-readme/zh/README.md  
+<p align="center"><sub>🌐 其他语言: <a href="../../README.md">English</a> · <a href="../pt-BR/README.md">Português (BR)</a> · <a href="../es/README.md">Español</a> · <a href="../fr/README.md">Français</a> · <a href="../ja-JA/README.md">日本語</a> · <b>中文</b></sub></p>
